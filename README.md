@@ -1,4 +1,3 @@
-## 单链表实现多项式相加
+## my_httpd
 
-> 小项目讲解地址：[冷山不生云的博客](https://blog.csdn.net/zanda_/article/details/83041660)
-
+>这是一个通用的HTTP服务器框架
